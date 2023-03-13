@@ -1,0 +1,11 @@
+Write a summary of what we learn about the story from the following chat log.
+
+
+
+
+<<INPUT>>
+
+
+
+
+STORY DETAILS:

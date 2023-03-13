@@ -1,0 +1,11 @@
+Write an executive summary of the following chat log.
+
+
+
+
+<<INPUT>>
+
+
+
+
+EXECUTIVE SUMMARY:
